@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mildlybrutal&label=Profile%20views&color=0e75b6&style=flat" alt="mildlybrutal" /> </p>
 
-- 🔭 I’m currently working on [Book Recommendation Website](https://github.com/Akash182249/book-r-des/tree/main/Design-project-main)
 
 - 🌱 I’m currently learning **CSS, JavaScript, C++,Python, DSA**
 
